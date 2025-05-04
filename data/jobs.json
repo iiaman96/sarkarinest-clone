@@ -1,0 +1,134 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "UPSC Civil Services 2024",
+      "category": "UPSC",
+      "postDate": "2023-11-20",
+      "lastDate": "2024-01-15",
+      "description": "Applications are invited for Civil Services Examination 2024. Selection through Prelims, Mains and Interview.",
+      "eligibility": "Graduates in any discipline. Age: 21-32 years",
+      "important": true,
+      "details": {
+        "vacancies": "1200+",
+        "examDate": "May 2024",
+        "applicationFee": {
+          "general": "₹100",
+          "others": "₹0"
+        },
+        "selectionProcess": [
+          "Preliminary Examination",
+          "Main Examination",
+          "Interview"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "SSC CGL 2023-24",
+      "category": "SSC",
+      "postDate": "2023-11-15",
+      "lastDate": "2023-12-30",
+      "description": "Combined Graduate Level Examination for various posts in Government departments.",
+      "eligibility": "Bachelor's Degree from recognized University. Age: 18-32 years",
+      "important": true,
+      "details": {
+        "vacancies": "5000+",
+        "examDate": "March 2024",
+        "applicationFee": {
+          "general": "₹100",
+          "others": "₹0"
+        },
+        "selectionProcess": [
+          "Tier I - Computer Based Examination",
+          "Tier II - Computer Based Examination",
+          "Tier III - Pen and Paper Mode",
+          "Tier IV - Computer Proficiency Test/Data Entry Skill Test"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "IBPS PO 2024",
+      "category": "Banking",
+      "postDate": "2023-11-18",
+      "lastDate": "2024-02-10",
+      "description": "Recruitment of Probationary Officers/Management Trainees in Participating Banks.",
+      "eligibility": "Graduates in any discipline. Age: 20-30 years",
+      "important": true,
+      "details": {
+        "vacancies": "4000+",
+        "examDate": "April 2024",
+        "applicationFee": {
+          "general": "₹850",
+          "others": "₹175"
+        },
+        "selectionProcess": [
+          "Preliminary Examination",
+          "Main Examination",
+          "Interview"
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "title": "Indian Army Recruitment 2024",
+      "category": "Defense",
+      "postDate": "2023-11-19",
+      "lastDate": "2024-01-30",
+      "description": "Various posts in Indian Army through Technical Entry Scheme.",
+      "eligibility": "10+2 with Physics, Chemistry, and Mathematics. Age: 16.5-19.5 years",
+      "important": false,
+      "details": {
+        "vacancies": "90",
+        "examDate": "April 2024",
+        "applicationFee": {
+          "general": "₹200",
+          "others": "₹200"
+        },
+        "selectionProcess": [
+          "SSB Interview",
+          "Medical Examination"
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "title": "RRB NTPC 2024",
+      "category": "Railways",
+      "postDate": "2023-11-17",
+      "lastDate": "2024-01-20",
+      "description": "Non-Technical Popular Categories in Indian Railways.",
+      "eligibility": "12th Pass/Graduation. Age: 18-33 years (varies by post)",
+      "important": true,
+      "details": {
+        "vacancies": "35000+",
+        "examDate": "March 2024",
+        "applicationFee": {
+          "general": "₹500",
+          "others": "₹250"
+        },
+        "selectionProcess": [
+          "Computer Based Test - 1",
+          "Computer Based Test - 2",
+          "Skill Test (where applicable)",
+          "Document Verification"
+        ]
+      }
+    }
+  ],
+  "categories": [
+    "UPSC",
+    "SSC",
+    "Banking",
+    "Defense",
+    "Railways",
+    "Teaching",
+    "State PSC",
+    "Police"
+  ],
+  "metadata": {
+    "lastUpdated": "2023-11-20T10:00:00Z",
+    "totalJobs": 5
+  }
+}
